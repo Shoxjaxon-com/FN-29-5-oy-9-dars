@@ -86,7 +86,7 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 });
 
-https://github.com/Shoxjaxon-com/FN-29-5-oy-9-dars
+// https://github.com/Shoxjaxon-com/FN-29-5-oy-9-dars
    
 
 
